@@ -342,3 +342,7 @@ public static void clearScreen() {
 - Update ChessMatch.PerformChessMove
 - Method ChessMatch.ReplacePromotedPiece
 - Update Program logic
+
+<br><br>
+
+###### [Lucas Rocha Dos Santos - Java Kids](https://www.linkedin.com/in/lrdns/)
